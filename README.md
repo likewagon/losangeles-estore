@@ -12,9 +12,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Screenshots
 
-![Home](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/home)
+![Home](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/home.png)
 
-![Dashboard](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/dashboard)
+![Dashboard](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/dashboard.png)
 
-![Service](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/service)
+![Service](https://github.com/likewagon/losangeles-estore/tree/master/src/assets/readmeassets/service.png)
 
